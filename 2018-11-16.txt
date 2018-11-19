@@ -1,0 +1,24 @@
+Meetup 16.11.2018 @ Tiedekulma & FRATELLO TORREFAZIONE
+Introduction
+
+Interests:
+Jobs related talk
+
+And..
+
+Building full application with vuejs/React. Rest APIs. Talk about tech trends
+Project based learning, language Java, .NET, React/Redux, DevOps
+Learn more JS, Learn more of JS libraries, start a project, jump to BackEnd, NodeJs
+JavaScript, NodeJs (MERN), Angular (basics), C#, SQL (MongoDB), Python
+JavaScript (React, Vue, Nodejs, Java, Git, Python
+Rust, Robotics, IoT
+FCC Helsinki, Tutorial Git, CI, Libs..
+
+Created Slack-channel: https://fcc-helsinki.slack.com
+
+Talked about place for host project.
+
+Discuss about agenda of project..
+
+Tikis notes:
+
