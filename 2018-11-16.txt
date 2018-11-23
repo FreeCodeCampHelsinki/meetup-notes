@@ -22,4 +22,12 @@ Discuss about agenda of project..
 
 Tikis notes:
 
-FromTiki
+3 things were decided:
+1) Hosting for the project site would be done through github and the "hosting"/testing/deployment of the could be done through netlify.com
+2) The project site would be a conference/hackathon type site. Everyone would bring a few ideas for features of the site at our next meetup. (Supplemental to this might I suggest everyone think of a name for the site. Here are my 2: CodeHEL or HEL Coders. Actually anything with HEL just because it sounds cool... to me at least)
+3) The next meetup would be on Perjantai, 23 Marraskuuta, 1700. Venue to be decided but we are looking for a place where we can meet for free. I will try on my side at Microsoft, but that would mean you all would have to take the Metro to Keilaniemi in Espoo.
+
+It was also mentioned that I would prepare a short session on AJAX but I could do it during our next meetup or our following meetup if there is a scheduling clash.
+
+Cheers,
+Tiki
