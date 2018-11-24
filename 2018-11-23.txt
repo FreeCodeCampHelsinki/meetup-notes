@@ -1,0 +1,45 @@
+Microsoft 23.11.2018
+NaHo, Umar, Ali, Tiki, Olli & Pekka
+
+Agenda:
+- AJAX intro by Tiki
+- Ideas for Projects Site
+- Logistics
+- Any other business
+
+
+AJAX (Asynchronous JavaScript And XML) presentation from Tiki. In Slack there is pictures and source code for AJAX training!
+
+Talk about HTTP status codes, you can find them here: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+Also HTTP methods GET, UPDATE, REMOVE... https://www.restapitutorial.com/lessons/httpmethods.html
+AJAX Demo
+
+Name of the project/site?
+- Code Hel
+- Code Hub Hel
+- Code Hub
+... (photo in Slack)
+VOTE WINNER: HelSynchers (I hope I wrote it right :D)
+
+Features of website (pictures):
+Sitemap, Channels, Tutorials, Caldendar, Projects, News/Rants, Podcasts/Discord, Cell groups, Contact, Intro, Credits (Sub Groups), Home, Update, Blog, FAQ..
+
+Wireframes (pictures at Slack)
+Talk about Vue.js, React & Angular, pros & cons
+
+Tasks:
+Git Intro - Pekka
+Ali, Umar & Olli - Design Template (if anyone wants to contribute on this, ask at Slack)
+Tiki - Reserve Microsoft meeting room and Ageda for next time.
+
+Snip&Sketch - Download and try it out https://www.microsoft.com/en-us/p/snip-sketch/9mz95kl8mr0l
+
+Talked about FCC-Time. Friday is maybe the best, but can try to put it other time also!
+
+Off-topic:
+- Lot of nuts and refreshments
+- We were finding Olli outside the Microsoft (2nd door if you come from Metro!)
+- Microsoft facilities were good and awesome!
+
+
+
