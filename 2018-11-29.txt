@@ -1,0 +1,43 @@
+Microsoft 23.11.2018
+NaHo, Umar, Ali, Olli, Tiki, Bibhor & Pekka
+
+Agenda:
+- Git (Pekka)
+- Template Fleshing
+- Assignment of tasks
+- AOB (Any Other Business)
+
+Pekka covered stuff from Git: git history, idea, .git folder, git (init, push, add..) 
+Tiki created repository and also told stuff about Git 
+
+GitHub repository has created -> https://github.com/FreeCodeCampHelsinki/HELSynchers 
+
+Git resources:
+Good practice for branching and handle project: https://fi.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+
+Important stuff before starting work:
+- git pull
+
+1) Fork it to your local machine
+2) Clone it to your local machine
+3) Create a branch
+4) Switch branch
+5) Do changes
+6) Add and commit
+7) Push (Do not cross branch)
+8) Go to orginal FCC Repo
+9) Pull request
+-> After successful merge, delete the branch 
+
+Use other branches like: (ask Slack if confusing)
+bug branch -> git checkout bug/sometingHere
+feature branch -> git checkout feature/somethingHere
+
+
+Tasks for future:
+css template. sidebanner, banner, main-menu, sidemenu
+
+Next Meetup: This time is hard, so we will schedule next time in Slack.
+
+
