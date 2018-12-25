@@ -1,0 +1,29 @@
+FCC Meetup 21.12.2018
+Sagar, Pekka, Umar, Olli, Tiki, NaHo, Tram, Ali
+
+Agenda: 
+Angular by Tiki
+Other stuff
+
+Install Angular "npm install -g @angular/cli" 
+Newest Angular needs npm 6+. If you are facing issues, remember to check that Node.js is added to your computers environment variables
+Creating WebApp (Skeleton) "ng new webApp2
+Had talk what src folder has inside and how does the site compiles (ng serve --open) project should open default localhost:4200
+ng g c nav (shortcut command for making component)
+We made own module (SampleComponent)
+Module includes 4 files 
+(component.css  component.html  component.spec.ts  component.ts)
+
+Talk about bindings: Attribute, Event, Method & Two-way bindings
+TypeScript? https://www.geeksforgeeks.org/difference-between-typescript-and-javascript/
+
+Area of Olohuone was nice. Bit noisy because of kids but talked with staff that maybe next time they will close kid section earlier.
+
+Next meetup 28.12.2018 @ Microsoft (If you are attending, please inform in Slack or Facebook event https://www.facebook.com/events/1074632819383216/?event_time_id=1074632822716549)
+
+TODO: Maybe changing notes to .MD because of code-blocks. Also Meetup pictures should store somewhere (maybe in Repo?)
+And if people has interest to show some cool stuff about Software Development, there is always space in start of meetup.
+
+Sigh, I was bad at writing tasks here, so lets try to next time to write them down. Happy Xmas!
+
+
