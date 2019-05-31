@@ -1,4 +1,4 @@
-## Oodi (Room 4), Helsinki 01.02.2019, 17:30-20:00
+## The Shortcut, Helsinki 01.02.2019, 17:30-20:00
 People:
 
 ## Photos from meetup
